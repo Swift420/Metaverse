@@ -43,7 +43,7 @@ const Hero = () => (
           />
 
           <a href="#explore">
-              <div className="w-full flex justify-end sm:-mt-7"></div>
+              <div className="w-full flex justify-end sm:-mt-[70px]"></div>
           </a>
         </div>
 
