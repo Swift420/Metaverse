@@ -6,7 +6,7 @@ import styles from '../styles'
 import {navVariants} from '../utils/motion'
 import { planetVariants, staggerContainer, fadeIn } from "../utils/motion";
 import { TitleText,TypingText, NewFeatures} from '../components'
-import {newFeatures, startingFeatures} from '../constants'
+import {newFeatures} from '../constants'
 
 const WhatsNew = () => (
    <section className={`${styles.paddings} relative z-10`}>
